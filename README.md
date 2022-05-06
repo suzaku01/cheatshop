@@ -9,8 +9,8 @@ Don't forget to drop `data` folder to the same path where exe created.
 
 # Usage
 D&D decrypted `mhfdat.bin` to exe.  
-You need to encrypt something like this  
+You need to encrypt to use it in game.   
 
-ReFrontier mhfdat.bin -log  
-ReFrontier mhfdat.bin -compress 3,1  
-ReFrontier output\mhfdat.bin -encrypt  
+`ReFrontier mhfdat.bin -log`  
+`ReFrontier mhfdat.bin -compress 3,1`  
+`ReFrontier output\mhfdat.bin -encrypt`  
