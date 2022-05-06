@@ -6,3 +6,11 @@ Compatible with item cheat shop.
 Slash axe F is in the One-handed sword category, Tonfa is in dual wield and Magnet spike is in Great sword.
 
 Don't forget to drop `data` folder to the same path where exe created.
+
+# Usage
+D&D decrypted `mhfdat.bin` to exe.  
+You need to encrypt something like this  
+
+ReFrontier mhfdat.bin -log  
+ReFrontier mhfdat.bin -compress 3,1  
+ReFrontier output\mhfdat.bin -encrypt  
