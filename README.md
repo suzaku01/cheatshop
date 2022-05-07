@@ -8,7 +8,7 @@ Slash axe F is in One-handed sword category, Tonfa is in Dual wield and Magnet s
 If you build it yourself, don't forget to drop `data` folder to the same path where exe created.
 
 # Usage
-D&D decrypted `mhfdat.bin` to exe.  
+D&D decrypted `mhfdat.bin` into exe.  
 Then you need to encrypt to use it in game.   
 
 Enpyryption is something like this  
