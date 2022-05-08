@@ -11,7 +11,7 @@ If you build it yourself, don't forget to drop `data` folder to the same path wh
 D&D decrypted `mhfdat.bin` into exe.  
 Then you need to encrypt to use it in game.   
 
-Enpyryption is something like this  
+Encryption is something like this  
 `ReFrontier mhfdat.bin -log`  
 `ReFrontier mhfdat.bin -compress 3,1`  
 `ReFrontier output\mhfdat.bin -encrypt`  
