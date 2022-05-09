@@ -1,4 +1,3 @@
-cheatshop
 
 Add all weapons and armors to Shop list and it's purchasable only with money.  
 The code is pretty bad, but it works at least.  
